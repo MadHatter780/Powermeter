@@ -31,18 +31,39 @@
                 </div>
                 <div class="w-full flex text-white justify-center">
                     <div class="w-full text-center">
-                        Value
+                        <div class="">
+                            Value
+                        </div>
+                        <div class="text-xl font-thin -mt-1" id="value2">
+                            80
+                        </div>
                     </div>
                     <div class="w-full text-center">
-                        Min
+                        <div class="">
+                            Min
+                        </div>
+                        <div class="text-xl font-thin -mt-1">
+                            0
+                        </div>
                     </div>
                     <div class="w-full text-center">
-                        Max
+                        <div class="">
+                            Max
+                        </div>
+                        <div class="text-xl font-thin -mt-1">
+                            100
+                        </div>
                     </div>
                     <div class="w-full text-center">
-                        Interval
+                        <div class="">
+                            Interval
+                        </div>
+                        <div class="text-xl font-thin -mt-1">
+                            15m
+                        </div>
                     </div>
                 </div>
+
             </div>
 
         </x-card-bottom>
